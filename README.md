@@ -22,5 +22,3 @@ ideology: Think futuristic. Build future-proof.
 location: 🌍 Earth, for now...
 ```
 <p align="center"> <img src="https://skillicons.dev/icons?i=Javascript,typescript,nodejs,react,nextjs,aws,git,github,vscode,linux" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YatharthVerma&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YatharthVerma&theme=tokyonight" /> </p>
